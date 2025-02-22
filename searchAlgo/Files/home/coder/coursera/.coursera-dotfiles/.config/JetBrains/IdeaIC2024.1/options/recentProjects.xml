@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/coursera/Solution">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Solution – ContactBookTest.java" projectWorkspaceId="2l37ivTFrZqA6UyJ1YtxMW1cIIu">
+              <option name="activationTimestamp" value="1727362725879" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="397" y="31" width="1400" height="1000" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1727362726698" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/coursera/C3M3L3Item07_STARTER">
+          <value>
+            <RecentProjectMetaInfo frameTitle="C3M3L3Item07_STARTER – ContactBook.java" opened="true" projectWorkspaceId="2l37ivTFrZqA6UyJ1YtxMW1cIIu">
+              <option name="activationTimestamp" value="1740210245342" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="229" y="51" width="1400" height="786" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1740158127021" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/coursera/C3M3L3Item07_STARTER" />
+  </component>
+</application>
