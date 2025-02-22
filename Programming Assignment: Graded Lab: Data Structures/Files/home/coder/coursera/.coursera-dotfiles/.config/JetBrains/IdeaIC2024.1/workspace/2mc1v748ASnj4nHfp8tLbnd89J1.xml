@@ -1,0 +1,111 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Solution" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="a6h67yzvlq7a" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;JAVA&quot;: {
+      &quot;usageCount&quot;: 8,
+      &quot;lastUsed&quot;: 1732205660386
+    }
+  }
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/com/lesson/lab/ExamNode.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="8" lastUsage="1732205660386" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Main" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32971013" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="AIAssistant" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <unified_weights bottom="0.32971013" left="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1150" y="642" width="477" height="186" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1732205718131">
+      <screen x="0" y="31" width="2012" height="977" />
+    </state>
+    <state x="1150" y="642" width="477" height="186" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.31.2012.977@0.31.2012.977" timestamp="1732205718131" />
+    <state x="958" y="323" width="434" height="488" key="FileChooserDialogImpl" timestamp="1732205578928">
+      <screen x="0" y="31" width="2012" height="977" />
+    </state>
+    <state x="958" y="323" width="434" height="488" key="FileChooserDialogImpl/0.31.2012.977@0.31.2012.977" timestamp="1732205578928" />
+    <state width="1348" height="290" key="GridCell.Tab.0.bottom" timestamp="1727361383171">
+      <screen x="0" y="31" width="2192" height="1091" />
+    </state>
+    <state width="1348" height="290" key="GridCell.Tab.0.bottom/0.31.2192.1091@0.31.2192.1091" timestamp="1727361383171" />
+    <state width="1348" height="290" key="GridCell.Tab.0.center" timestamp="1727361383171">
+      <screen x="0" y="31" width="2192" height="1091" />
+    </state>
+    <state width="1348" height="290" key="GridCell.Tab.0.center/0.31.2192.1091@0.31.2192.1091" timestamp="1727361383171" />
+    <state width="1348" height="290" key="GridCell.Tab.0.left" timestamp="1727361383171">
+      <screen x="0" y="31" width="2192" height="1091" />
+    </state>
+    <state width="1348" height="290" key="GridCell.Tab.0.left/0.31.2192.1091@0.31.2192.1091" timestamp="1727361383171" />
+    <state width="1348" height="290" key="GridCell.Tab.0.right" timestamp="1727361383171">
+      <screen x="0" y="31" width="2192" height="1091" />
+    </state>
+    <state width="1348" height="290" key="GridCell.Tab.0.right/0.31.2192.1091@0.31.2192.1091" timestamp="1727361383171" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/lesson/lab/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lesson/lab/ExamNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/ExamSchedule.java" />
+    <entry file="file://$PROJECT_DIR$/src/ExamNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/StudentInfoSystem.java" />
+  </component>
+</project>

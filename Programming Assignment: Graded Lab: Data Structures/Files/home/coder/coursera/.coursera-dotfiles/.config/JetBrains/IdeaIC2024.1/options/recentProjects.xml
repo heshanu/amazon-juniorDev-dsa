@@ -1,0 +1,58 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/coursera/data-structures">
+          <value>
+            <RecentProjectMetaInfo frameTitle="data-structures – Main.java" opened="true" projectWorkspaceId="2k44Nrw84FyH4xDYeCjSEbCI934">
+              <option name="activationTimestamp" value="1739819456490" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="305" y="31" width="1400" height="898" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1732205581007" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Solution">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Solution – Main.java" projectWorkspaceId="2pAPF1nxQRhZ1b2Vehrdqy05otc">
+              <option name="activationTimestamp" value="1732205936248" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="529" y="56" width="1400" height="937" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1732205801705" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/coursera/Solution">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Solution" projectWorkspaceId="2mc1v748ASnj4nHfp8tLbnd89J1">
+              <option name="activationTimestamp" value="1732224513515" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="159" y="130" width="1400" height="898" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1732214478919" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/coursera/data-structures" />
+    <option name="lastProjectLocation" value="$USER_HOME$" />
+  </component>
+</application>

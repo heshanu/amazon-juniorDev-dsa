@@ -1,0 +1,224 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="data-structures" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="a6h67yzvlq7a" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/ExamSchedule.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+              <folding>
+                <element signature="method#addExam#0;class#ExamSchedule#0" />
+                <element signature="e#340#458#1" />
+                <element signature="e#464#951#1" />
+                <element signature="e#606#731#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="199">
+              <caret line="69" column="72" selection-start-line="69" selection-start-column="72" selection-end-line="69" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 29,
+      "lastUsed": 1739819186674
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Student.java" />
+      <option value="$PROJECT_DIR$/src/ExamNode.java" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
+      <option value="$PROJECT_DIR$/src/StudentInfoSystem.java" />
+      <option value="$PROJECT_DIR$/src/ExamSchedule.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="29" lastUsage="1739819186674" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/data-structures}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/data-structures}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/data-structures/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Main" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15083507" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3255968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.32945734" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="AIAssistant" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <unified_weights bottom="0.3255968" left="0.15083507" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="234" width="810" height="681" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1732207506852">
+      <screen x="0" y="31" width="2012" height="977" />
+    </state>
+    <state x="494" y="234" width="810" height="681" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.2012.977@0.31.2012.977" timestamp="1732207506852" />
+    <state x="737" y="313" width="535" height="419" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1732207495262">
+      <screen x="0" y="31" width="2012" height="977" />
+    </state>
+    <state x="737" y="313" width="535" height="419" key="#com.intellij.ide.util.TreeClassChooserDialog/0.31.2012.977@0.31.2012.977" timestamp="1732207495262" />
+    <state x="789" y="277" width="434" height="488" key="FileChooserDialogImpl" timestamp="1732212520705">
+      <screen x="0" y="31" width="2012" height="977" />
+    </state>
+    <state x="789" y="277" width="434" height="488" key="FileChooserDialogImpl/0.31.2012.977@0.31.2012.977" timestamp="1732212520705" />
+    <state width="916" height="217" key="GridCell.Tab.0.bottom" timestamp="1739820432888">
+      <screen x="0" y="31" width="958" height="778" />
+    </state>
+    <state width="1348" height="269" key="GridCell.Tab.0.bottom/0.31.2012.977@0.31.2012.977" timestamp="1732205568172" />
+    <state width="916" height="217" key="GridCell.Tab.0.bottom/0.31.958.778@0.31.958.778" timestamp="1739820432888" />
+    <state width="916" height="217" key="GridCell.Tab.0.center" timestamp="1739820432888">
+      <screen x="0" y="31" width="958" height="778" />
+    </state>
+    <state width="1348" height="269" key="GridCell.Tab.0.center/0.31.2012.977@0.31.2012.977" timestamp="1732205568172" />
+    <state width="916" height="217" key="GridCell.Tab.0.center/0.31.958.778@0.31.958.778" timestamp="1739820432888" />
+    <state width="916" height="217" key="GridCell.Tab.0.left" timestamp="1739820432888">
+      <screen x="0" y="31" width="958" height="778" />
+    </state>
+    <state width="1348" height="269" key="GridCell.Tab.0.left/0.31.2012.977@0.31.2012.977" timestamp="1732205568172" />
+    <state width="916" height="217" key="GridCell.Tab.0.left/0.31.958.778@0.31.958.778" timestamp="1739820432888" />
+    <state width="916" height="217" key="GridCell.Tab.0.right" timestamp="1739820432888">
+      <screen x="0" y="31" width="958" height="778" />
+    </state>
+    <state width="1348" height="269" key="GridCell.Tab.0.right/0.31.2012.977@0.31.2012.977" timestamp="1732205568172" />
+    <state width="916" height="217" key="GridCell.Tab.0.right/0.31.958.778@0.31.958.778" timestamp="1739820432888" />
+    <state x="0" y="70" width="1034" height="849" key="SettingsEditor" timestamp="1732224540842">
+      <screen x="0" y="31" width="1798" height="888" />
+    </state>
+    <state x="0" y="70" width="1034" height="849" key="SettingsEditor/0.31.1798.888@0.31.1798.888" timestamp="1732224540842" />
+    <state x="497" y="205" width="800" height="612" key="new project wizard" timestamp="1732205799702">
+      <screen x="0" y="31" width="2012" height="977" />
+    </state>
+    <state x="497" y="205" width="800" height="612" key="new project wizard/0.31.2012.977@0.31.2012.977" timestamp="1732205799702" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ExamNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudentInfoSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="69" column="72" selection-start-line="69" selection-start-column="72" selection-end-line="69" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExamSchedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+          <folding>
+            <element signature="method#addExam#0;class#ExamSchedule#0" />
+            <element signature="e#340#458#1" />
+            <element signature="e#464#951#1" />
+            <element signature="e#606#731#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>
