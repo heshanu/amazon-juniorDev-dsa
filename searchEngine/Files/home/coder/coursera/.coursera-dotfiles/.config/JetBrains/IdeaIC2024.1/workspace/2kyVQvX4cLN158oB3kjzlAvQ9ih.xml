@@ -1,0 +1,291 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="C3M4L1_03_Search_Engine_Lab.iml" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="a6h67yzvlq7a" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="222">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 56,
+      "lastUsed": 1740384386992
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 3,
+      "lastUsed": 1740381479631
+    },
+    "textmate": {
+      "usageCount": 11,
+      "lastUsed": 1740383750320
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 1,
+      "lastUsed": 1740381475723
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>resouces</find>
+      <find>resour</find>
+      <find>res</find>
+      <find>resources</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Book.java" />
+      <option value="$PROJECT_DIR$/src/Library.java" />
+      <option value="$PROJECT_DIR$/src/LibraryMenu.java" />
+      <option value="$PROJECT_DIR$/src/SortUtil.java" />
+      <option value="$PROJECT_DIR$/src/UserInteractionLogger.java" />
+      <option value="$PROJECT_DIR$/src/LibrarySerializer.java" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="56" lastUsage="1740384386992" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="3" lastUsage="1740381479631" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="11" lastUsage="1740383750320" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="C3M4L1_03_Search_Engine_Lab.iml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/search-engine-test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C3M4L1_03_Search_Engine_Lab.iml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/search-engine-test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/search-engine-test/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Main (1)" />
+      <element setting="Application.Main" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="C3M4L1_03_Search_Engine_Lab.iml-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16104078" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31944445" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33055556" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="AIAssistant" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <unified_weights bottom="0.31944445" left="0.16104078" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14076433" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36018518" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33055556" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="AIAssistant" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <unified_weights bottom="0.36018518" left="0.14076433" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="645" height="144" key="GridCell.Tab.0.bottom" timestamp="1740383807585">
+      <screen x="0" y="31" width="687" height="564" />
+    </state>
+    <state width="578" height="143" key="GridCell.Tab.0.bottom/0.31.620.564@0.31.620.564" timestamp="1740249277297" />
+    <state width="645" height="144" key="GridCell.Tab.0.bottom/0.31.687.564@0.31.687.564" timestamp="1740383807585" />
+    <state width="664" height="124" key="GridCell.Tab.0.bottom/0.31.706.564@0.31.706.564" timestamp="1740382413970" />
+    <state width="669" height="191" key="GridCell.Tab.0.bottom/0.31.711.564@0.31.711.564" timestamp="1740382988435" />
+    <state width="690" height="126" key="GridCell.Tab.0.bottom/0.31.732.564@0.31.732.564" timestamp="1740245862345" />
+    <state width="743" height="166" key="GridCell.Tab.0.bottom/0.31.785.564@0.31.785.564" timestamp="1740383451299" />
+    <state width="753" height="144" key="GridCell.Tab.0.bottom/0.31.795.564@0.31.795.564" timestamp="1740383733609" />
+    <state width="690" height="126" key="GridCell.Tab.0.bottom/0.31.816.564@0.31.816.564" timestamp="1740249215158" />
+    <state width="779" height="124" key="GridCell.Tab.0.bottom/0.31.821.564@0.31.821.564" timestamp="1740382893113" />
+    <state width="645" height="144" key="GridCell.Tab.0.center" timestamp="1740383807584">
+      <screen x="0" y="31" width="687" height="564" />
+    </state>
+    <state width="578" height="143" key="GridCell.Tab.0.center/0.31.620.564@0.31.620.564" timestamp="1740249277297" />
+    <state width="645" height="144" key="GridCell.Tab.0.center/0.31.687.564@0.31.687.564" timestamp="1740383807584" />
+    <state width="664" height="124" key="GridCell.Tab.0.center/0.31.706.564@0.31.706.564" timestamp="1740382413970" />
+    <state width="669" height="191" key="GridCell.Tab.0.center/0.31.711.564@0.31.711.564" timestamp="1740382988435" />
+    <state width="690" height="126" key="GridCell.Tab.0.center/0.31.732.564@0.31.732.564" timestamp="1740245862345" />
+    <state width="743" height="166" key="GridCell.Tab.0.center/0.31.785.564@0.31.785.564" timestamp="1740383451299" />
+    <state width="753" height="144" key="GridCell.Tab.0.center/0.31.795.564@0.31.795.564" timestamp="1740383733609" />
+    <state width="690" height="126" key="GridCell.Tab.0.center/0.31.816.564@0.31.816.564" timestamp="1740249215158" />
+    <state width="779" height="124" key="GridCell.Tab.0.center/0.31.821.564@0.31.821.564" timestamp="1740382893113" />
+    <state width="645" height="144" key="GridCell.Tab.0.left" timestamp="1740383807584">
+      <screen x="0" y="31" width="687" height="564" />
+    </state>
+    <state width="578" height="143" key="GridCell.Tab.0.left/0.31.620.564@0.31.620.564" timestamp="1740249277297" />
+    <state width="645" height="144" key="GridCell.Tab.0.left/0.31.687.564@0.31.687.564" timestamp="1740383807584" />
+    <state width="664" height="124" key="GridCell.Tab.0.left/0.31.706.564@0.31.706.564" timestamp="1740382413970" />
+    <state width="669" height="191" key="GridCell.Tab.0.left/0.31.711.564@0.31.711.564" timestamp="1740382988435" />
+    <state width="690" height="126" key="GridCell.Tab.0.left/0.31.732.564@0.31.732.564" timestamp="1740245862345" />
+    <state width="743" height="166" key="GridCell.Tab.0.left/0.31.785.564@0.31.785.564" timestamp="1740383451299" />
+    <state width="753" height="144" key="GridCell.Tab.0.left/0.31.795.564@0.31.795.564" timestamp="1740383733609" />
+    <state width="690" height="126" key="GridCell.Tab.0.left/0.31.816.564@0.31.816.564" timestamp="1740249215158" />
+    <state width="779" height="124" key="GridCell.Tab.0.left/0.31.821.564@0.31.821.564" timestamp="1740382893113" />
+    <state width="645" height="144" key="GridCell.Tab.0.right" timestamp="1740383807584">
+      <screen x="0" y="31" width="687" height="564" />
+    </state>
+    <state width="578" height="143" key="GridCell.Tab.0.right/0.31.620.564@0.31.620.564" timestamp="1740249277297" />
+    <state width="645" height="144" key="GridCell.Tab.0.right/0.31.687.564@0.31.687.564" timestamp="1740383807584" />
+    <state width="664" height="124" key="GridCell.Tab.0.right/0.31.706.564@0.31.706.564" timestamp="1740382413970" />
+    <state width="669" height="191" key="GridCell.Tab.0.right/0.31.711.564@0.31.711.564" timestamp="1740382988435" />
+    <state width="690" height="126" key="GridCell.Tab.0.right/0.31.732.564@0.31.732.564" timestamp="1740245862345" />
+    <state width="743" height="166" key="GridCell.Tab.0.right/0.31.785.564@0.31.785.564" timestamp="1740383451299" />
+    <state width="753" height="144" key="GridCell.Tab.0.right/0.31.795.564@0.31.795.564" timestamp="1740383733609" />
+    <state width="690" height="126" key="GridCell.Tab.0.right/0.31.816.564@0.31.816.564" timestamp="1740249215158" />
+    <state width="779" height="124" key="GridCell.Tab.0.right/0.31.821.564@0.31.821.564" timestamp="1740382893113" />
+    <state x="58" y="85" key="refactoring.ChangeSignatureDialog" timestamp="1740248950270">
+      <screen x="0" y="31" width="732" height="564" />
+    </state>
+    <state x="58" y="85" key="refactoring.ChangeSignatureDialog/0.31.732.564@0.31.732.564" timestamp="1740248950270" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="method#searchBookByKeyword#0;class#Library#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/data/library.ser">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/data/books.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="40" column="61" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibraryMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/data/user_interactions.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserInteractionLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LibrarySerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
